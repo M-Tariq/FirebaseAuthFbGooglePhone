@@ -15,13 +15,7 @@
     android:padding="16dp"
     android:onClick="signInClick"
     android:layout_margin="16dp"/>
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/sign_out"
-        android:padding="16dp"
-        android:onClick="signOutClick"
-        android:layout_margin="16dp"/>
+
 
 
 
